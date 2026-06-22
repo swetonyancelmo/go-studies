@@ -1,0 +1,23 @@
+# Binários compilados (nunca commitar)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-studies
+hello
+
+# Testes
+*.test
+*.out
+
+# Air (hot reload) — pasta temporária
+tmp/
+
+# Variáveis de ambiente (se usar futuramente)
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
